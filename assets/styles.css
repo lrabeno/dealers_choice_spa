@@ -1,0 +1,17 @@
+
+body {
+    background-color: dodgerblue;
+    font-family: verdana;
+    padding: 1rem;
+}
+main {
+    display: flex;
+}
+main > * {
+    flex: 1;
+}
+
+h1 {
+    text-align: center;
+}
+
